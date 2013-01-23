@@ -5,6 +5,9 @@ Inspired by [w3cjs](https://github.com/thomasdavis/w3cjs), but based purely on b
 
 Use with your tests.
 
+[![Build Status](https://travis-ci.org/busbud/w3c-validate.png)](https://travis-ci.org/busbud/w3c-validate)
+
+
 ## Installation
 
 ```js
