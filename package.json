@@ -1,0 +1,30 @@
+{
+  "name": "w3c-validate",
+  "version": "0.0.1",
+  "main": "./lib/w3c-validate",
+  "engines": {
+    "node": ">= 0.6.14"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/busbud/w3c-validate"
+  },
+  "dependencies": {
+    "superagent": "~0.12.1",
+    "underscore": "~1.4.3"
+  },
+  "devDependencies": {
+    "chai": "~1.4.2",
+    "mocha": "~1.8.1"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha --reporter spec --bail"
+  },
+  "keywords": [
+    "w3c",
+    "validator",
+    "html",
+    "html5"
+  ],
+  "license": "http://unlicense.org/"
+}
