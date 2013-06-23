@@ -2,6 +2,7 @@ var should  = require('chai').should();
 var factory = require('../lib/w3c-validate');
 
 describe('validator factory', function () {
+  this.timeout(5000);
   it('should have a factory method createValidator()', function () {
     should.exist(factory);
     factory.should.respondTo('createValidator');
