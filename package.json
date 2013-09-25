@@ -1,6 +1,6 @@
 {
   "name": "w3c-validate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/w3c-validate",
   "engines": {
     "node": ">= 0.6.14"
