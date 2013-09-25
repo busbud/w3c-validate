@@ -10,7 +10,7 @@
     "url": "https://github.com/busbud/w3c-validate"
   },
   "dependencies": {
-    "superagent": "~0.12.1",
+    "superagent": ">= 0.12.1",
     "underscore": "~1.4.3"
   },
   "devDependencies": {
