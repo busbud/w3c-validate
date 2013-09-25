@@ -1,6 +1,6 @@
 {
   "name": "w3c-validate",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/w3c-validate",
   "engines": {
     "node": ">= 0.6.14"
@@ -10,7 +10,7 @@
     "url": "https://github.com/busbud/w3c-validate"
   },
   "dependencies": {
-    "superagent": "~0.12.1",
+    "superagent": ">= 0.12.1",
     "underscore": "~1.4.3"
   },
   "devDependencies": {
